@@ -1,0 +1,14 @@
+---
+Titulo: Primer artículo
+Autor: Ben Jones
+Fecha: 2025-04-24
+Imagen: img_1.jpg
+Descripcion: Hola este es el blog de David Ortega
+Contenido: Este es el tutorial donde se debe mostrar en pantalla
+---
+Titulo: Segundo artículo...
+Autor: María Pérez
+Fecha: 2025-04-23
+Imagen: img_2.jpg
+Descripcion: Bienvenidos al mundo del Slog-3
+Contenido: Este es el tutorial donde se debe mostrar en pantalla

@@ -1,5 +1,5 @@
 [
-    {"id": "1","titulo":"Primer artículo","autor":"Ben Jones","fecha":"2025-04-20","imagen":"img_1.jpg","descripcion":"Hola este es el blog de David Ortega","Contenido":"Este es el tutorial donde se debe mostrar en pantalla"},
-    {"id": "2","titulo":"Segundo artículo","autor":"David Ortega","fecha":"2025-04-21","imagen":"img_2.jpg","descripcion":"Hola este es el blog de David Ortega","Contenido":"Este es el tutorial no se donde se debe mostrar en pantalla"},
-    {"id": "3","titulo":"Tercer artículo","autor":"Nancy Abad","fecha":"2025-04-22","imagen":"img_3.jpg","descripcion":"Hola este es el blog de David Ortega","Contenido":"Este es el tutorial talvez donde se debe mostrar en pantalla"}
+    {"id": "1","titulo":"Primer artículo","autor":"Ben Jones","fecha":"2025-04-20","imagen":"assets/images/img_1.jpg","descripcion":"Hola este es el blog de David Ortega","Contenido":"Este es el tutorial donde se debe mostrar en pantalla"},
+    {"id": "2","titulo":"Segundo artículo","autor":"David Ortega","fecha":"2025-04-21","imagen":"assets/images/img_2.jpg","descripcion":"Hola este es el blog de David Ortega","Contenido":"Este es el tutorial no se donde se debe mostrar en pantalla"},
+    {"id": "3","titulo":"Tercer artículo","autor":"Nancy Abad","fecha":"2025-04-22","imagen":"assets/images/img_3.jpg","descripcion":"Hola este es el blog de David Ortega","Contenido":"Este es el tutorial talvez donde se debe mostrar en pantalla"}
 ]

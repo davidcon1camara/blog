@@ -1,6 +1,6 @@
 [
-    { "id": "1", "titulo": "Artículo 1", "descripcion": "Descripción del artículo 1","imagen":"img_1.jpg" },
-    { "id": "2", "titulo": "Artículo 2", "descripcion": "Descripción del artículo 2","imagen":"img_2.jpg" },
-    { "id": "3", "titulo": "Artículo 3", "descripcion": "Descripción del artículo 3","imagen":"img_3.jpg" }
+    { "id": "1", "titulo": "Artículo 1", "descripcion": "Descripción del artículo 1","imagen":"assets/images/img_1.jpg" },
+    { "id": "2", "titulo": "Artículo 2", "descripcion": "Descripción del artículo 2","imagen":"assets/images/img_2.jpg" },
+    { "id": "3", "titulo": "Artículo 3", "descripcion": "Descripción del artículo 3","imagen":"assets/images/img_3.jpg" }
 ]
   

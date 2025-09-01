@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bienvenidos!"
-categories: [ Jekyll ]
+categories: [ Fotografia ]
 image: assets/images/demo1.jpg
 ---
 Hola en este sitio encontrarás reviews de objetivos conpatibles con la montura E, RF, por ahora son las cámaras que poseo y puedo dar una opinión verdadera del comportamiento que tiene estos lentes.

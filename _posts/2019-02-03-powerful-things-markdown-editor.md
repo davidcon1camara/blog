@@ -2,13 +2,13 @@
 layout: post
 title:  "Viltrox 35mm F1.7 La Review"
 author: jane
-categories: [ Jekyll, tutorial ]
+categories: [ Fotografia, tutorial, review ]
 image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-tags: [summer]
+tags: [reviews]
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+Este nuevo lente de la serie **AIR** de la compañía ==Viltrox==, me ha parecido una gema, ya que por su precio $129 aquí en mi país Ecuador; es una ganga para el resultado que te da, la nitidez y el bokeh a F1.7 es increíble, Adicionar a esto su peso muy liviano con tan solo 170 gramos esto es debido al material de plástico y un solo anillo que ayuda a enfocar de forma manual.
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+Carece de botones para selección de tipo de enfoque, de anillo de diafragma, bloqueo de iris, etc solo es el barril que contiene los lentes por dentro y goza de un puerto USB-C para futuras actualizaciones, ya que la compañía constatemente esta dando soporte a sus unidades y otras las va quitando lentamente del mercado.
 
 
 ## Special formatting
